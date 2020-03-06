@@ -1,5 +1,7 @@
-# image_classification_FA
+# ‘The Simpsons’ image classification
 
-The purpose of the project is to identify 'The Simpsons characters' using the Fast AI library.
+The purpose of the project is to identify 42 characters from 'The Simpsons' using the Fast AI library.
+Classifier: a CNN backbone and a fully connected head with a single hidden layer. 
+Model takes images as input and the output is the predicted probability for each of the 42 categories.
 
-Based on https://www.kaggle.com/alexattia/the-simpsons-characters-dataset
+Dataset from: https://www.kaggle.com/alexattia/the-simpsons-characters-dataset
